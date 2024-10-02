@@ -1,38 +1,4 @@
-<style>
-    body, html {
-    margin: 0;
-    padding: 0;
-    height: 100%;
-}
-
-.background-image {
-    position: relative;
-    overflow: hidden; /* Prevent overflow if content is larger */
-}
-
-.background-image  > img:nth-child(1) {
-    position: absolute;
-    top: 0;
-    left: 0;
-    object-fit: center; /* Cover the entire container */
-    opacity: 0.4; /* Adjust opacity here */
-    z-index: -1; /* Send the image to the back */
-    width:100%;
-}
-
-.content {
-    position: relative; /* Position relative for stacking context */
-    z-index: 2; /* Ensure content is above the background image */
-    padding: 20px; /* Add some padding */
-    color: #fff; /* Change text color for better visibility */
-}
-
-</style>
-<div class="background-image">
-    <img  src="https://cdn.dribbble.com/users/3013/screenshots/2179519/media/8e61ab0e68a3ae867dde884faa4ce46f.gif" >
-
 # 🚀 Full Stack Developer
-
 
 **`Digital Craftsman (Developer/Architect)`**
 
@@ -46,9 +12,6 @@ I'm a full-stack developer with expertise in building web applications and distr
    <a href="https://github.com/anas-ennahli?tab=repositories&sort=stargazers">
       <img alt="GitHub stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/your-username?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
-
-</div>
-
 
 ---
 
@@ -120,6 +83,7 @@ I'm a full-stack developer with expertise in building web applications and distr
 
    I'm excited for what the future holds and can't wait to share this journey with the world. Stay tuned because there's much more to come!
 </details>
+
 
 [website]: https://anas-ennahli.great-site.net
 [linkedin]: https://www.linkedin.com/in/anas-ennahli
