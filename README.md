@@ -29,8 +29,8 @@ I'm a full-stack developer with expertise in building web applications and distr
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
 <br />
+<br />
 
----
 
 ### ⚙️ Frameworks
 
@@ -47,9 +47,8 @@ I'm a full-stack developer with expertise in building web applications and distr
 <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 
 <br />
+<br />
 
-
----
 
 ### ⚙️ Tools
 
